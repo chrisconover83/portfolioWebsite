@@ -10,11 +10,11 @@ const About = () => {
                 </p>
             </div>
             <p className='text-xl mt-20 '>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. A facere blanditiis harum necessitatibus laudantium in maiores accusamus, ex possimus hic ad cupiditate deserunt voluptates illo et inventore iure iste nostrum qui minus! Sint ab voluptatum reprehenderit quis illum voluptas amet corrupti. Error laudantium explicabo deserunt molestiae aspernatur, officiis totam aliquid.
+            Although I am a self-taught developer, I have always had a love for technology and a strong desire to learn. I'm a problem solver at heart and I love using my creativity to come up with unique solutions to complex challenges. I have a knack for taking abstract concepts and turning them into something tangible and useful. I have experience in both front-end and back-end development. My goal as a developer is to continue to grow and learn as much as possible, while also delivering high-quality work.  I'm excited to take on new projects and help bring ideas to life. I believe that programming is not just about writing code, it's about solving problems in creative ways. I have a knack for thinking outside the box and finding unique solutions to complex problems.  In my free time, you'll find me spending time with my family, playing and watching sports, and experimenting with new technologies.  
             </p>
             <br />
             <p className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores exercitationem obcaecati dignissimos optio mollitia consectetur nisi, cumque dolorum. Et, blanditiis, in, dolor hic eum deleniti aspernatur praesentium aut explicabo doloribus asperiores sunt a! Porro doloribus repellat soluta eum ex, delectus rerum modi quisquam vitae debitis ipsa magnam exercitationem fugit id.
+            Thank you for visiting my website. I hope you enjoy exploring my projects and learning more about my skills and experiences. Let's build something great together!
             </p>
         </div>
     </div>
